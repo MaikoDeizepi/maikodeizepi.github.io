@@ -1,5 +1,5 @@
 body{
-    
+   
     font-family: 'Open Sans', sans-serif;
     
 }
@@ -27,7 +27,16 @@ ul{
 }
 #navbar{
     font-weight: bold; 
+    
+}
+#image{
+   height: 5cm;
+   width: 5cm;
 }
 .col{
     text-align: center;
+}
+.card{
+
+    background-color: #F0FBFF;
 }
