@@ -1,0 +1,33 @@
+body{
+    
+    font-family: 'Open Sans', sans-serif;
+    
+}
+h5{
+    text-align: center;
+}
+h6{
+    text-align: center;
+}
+ul{
+    text-align: left;
+}
+#nome{
+    font-size: 1.5cm;
+    text-align: center;
+    color: black;
+    
+}
+#dadospessoais{
+    color:black;
+    text-align-last: center;
+}
+#centro{
+    text-align-last: center;
+}
+#navbar{
+    font-weight: bold; 
+}
+.col{
+    text-align: center;
+}
