@@ -1,8 +1,4 @@
-body{
-   
-    font-family: 'Open Sans', sans-serif;
-    
-}
+
 h5{
     text-align: center;
 }
@@ -11,6 +7,13 @@ h6{
 }
 ul{
     text-align: left;
+}
+
+i{
+    color:#00BAFE;
+}
+#fontes{
+     font-family: 'Merriweather Sans', sans-serif;
 }
 #nome{
     font-size: 1.5cm;
@@ -39,5 +42,6 @@ ul{
 .card{
 
     background-color: #F0FBFF;
+    font-family: 'Merriweather Sans', sans-serif;
 }
 
