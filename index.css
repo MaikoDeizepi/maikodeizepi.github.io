@@ -45,6 +45,10 @@ i{
     padding: 0px 400px 0px 300px;
     display: flex;
 }
+#logonomehome{
+    padding: 0px 0px 0px 650px;
+    
+}
 .col{
     text-align: center;
 }
@@ -53,4 +57,12 @@ i{
     background-color: #F0FBFF;
     font-family: 'Merriweather Sans', sans-serif;
 }
+.card-columns {
+    @include media-breakpoint-only(lg) {
+      column-count: 4;
+    }
+    @include media-breakpoint-only(xl) {
+      column-count: 5;
+    }
+  }
 
