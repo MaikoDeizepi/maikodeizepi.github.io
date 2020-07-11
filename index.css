@@ -53,8 +53,6 @@ i{
     text-align: center;
 }
 .card{
-
-    background-color: #F0FBFF;
     font-family: 'Merriweather Sans', sans-serif;
 }
 .card-columns {
@@ -65,4 +63,6 @@ i{
       column-count: 5;
     }
   }
-
+body{
+    background-color: black;
+}
