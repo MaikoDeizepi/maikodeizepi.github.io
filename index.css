@@ -64,5 +64,17 @@ i{
     }
   }
 body{
-    background-color: black;
+    background-color: rgba(255, 255, 255, 0.048);
+}
+.navbar, .navbar *{
+    -webkit-transition : all .25s ease-in-out;
+    transition: all .25s ease-in-out;
+
+}
+.navbar{
+    border-bottom: 1px solid rgba(0,0,0,.1);
+}
+
+#cor{
+    color: black;
 }
