@@ -65,6 +65,7 @@ i{
   }
 body{
     background-color: rgba(255, 255, 255, 0.048);
+    margin: 0 15px;
 }
 .navbar, .navbar *{
     -webkit-transition : all .25s ease-in-out;
@@ -88,3 +89,8 @@ body{
     margin-top:-50px;
     margin-left:-50px;
     }
+
+.active_link{
+        color: blue;
+        border-bottom: black 3px solid;
+        }
